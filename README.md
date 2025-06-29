@@ -54,28 +54,6 @@ The app will be available at `http://localhost:3000`.
 
 ---
 
-## 📁 Folder Structure
-
-```
-film-card-view/
-├── public/         # Static assets
-├── src/            # Source code
-│   ├── components/ # Reusable components
-│   ├── data/       # Movie dataset (optional)
-│   └── App.jsx     # Main app logic
-├── index.html
-└── README.md
-```
-
----
-
-## 📸 Screenshots
-
-> ![screenshot](https://film-card-view.lovable.app/screenshot.png)
-> *Responsive film card gallery in action*
-
----
-
 ## 📄 License
 
 MIT License © 2025 [Eka Prasetyo](https://github.com/eka0789)
